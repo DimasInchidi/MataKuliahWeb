@@ -1,6 +1,6 @@
-# IntracoCSA-PKL
+# Mata Kuliah
 
-red me
+Aplikasi web manajemen mata kulaih
 
 ## Follow the Guide (Deploy to Heroku)
 
